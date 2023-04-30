@@ -1,4 +1,5 @@
-(ns clojure.tower_of_hanoi)
+(ns clojure.tower_of_hanoi
+  (:require [clojure.string :as string]))
 
 (defn hanoi
   ([disks] (hanoi [] 0 2 1 disks))
@@ -12,5 +13,5 @@
 
 (->> (hanoi 3)
      (map #(str "Move from " (:from %) " to " (:to %)))
-     (clojure.string/join "\n")
+     (string/join "\n")
      println)
