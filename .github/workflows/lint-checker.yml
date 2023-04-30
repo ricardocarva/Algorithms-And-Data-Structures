@@ -24,3 +24,4 @@ jobs:
           VALIDATE_GOOGLE_JAVA_FORMAT: true
           VALIDATE_PYTHON_BLACK: true
           VALIDATE_PYTHON_ISORT: true
+          VALIDATE_CLOJURE: true
