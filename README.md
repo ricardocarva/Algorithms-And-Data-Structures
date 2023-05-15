@@ -2,7 +2,7 @@
 
 Este repositório disponibiliza diversos algoritmos e estruturas de dados clássicos em **Ciência da Computação**, bem como alguns problemas extras que são encontrados com frequência em desafios de programação.
 
-Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a contribuir com o projeto, os algoritmos são disponibilizados nas seguintes linguagens: **C**, **C++**, **Java**, **Python**, **Go**, **Ruby**, **Javascript**, **Swift**, **Rust**, **Scala** e **Kotlin**.
+Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a contribuir com o projeto, os algoritmos são disponibilizados nas seguintes linguagens: **C**, **C++**, **Java**, **Python**, **Go**, **Ruby**, **Javascript**, **Swift**, **Rust**, **Scala** e **Clojure**.
 
 <html>
     <table align="center">
@@ -59,8 +59,8 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                 </a>
             </td>
             <td align="center">
-                <a href="https://play.kotlinlang.org/">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+                <a href="https://tryclojure.org/">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -116,7 +116,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -174,7 +174,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -232,7 +232,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -290,7 +290,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -348,7 +348,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -406,7 +406,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -464,7 +464,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -522,7 +522,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -580,7 +580,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -638,7 +638,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -696,7 +696,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -754,7 +754,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -812,9 +812,9 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
-                <a href="./src/kotlin/ExponenciacaoRecursiva.kt">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <td> <!-- Clojure -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -870,9 +870,9 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
-                <a href="./src/kotlin/Fatorial.kt">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <td> <!-- Clojure -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -928,7 +928,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -986,9 +986,9 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
-                <a href="./src/kotlin/Fibonacci.kt">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <td> <!-- Clojure -->
+                <a href="./CONTRIBUTING.md">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -1044,7 +1044,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1102,7 +1102,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1160,7 +1160,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1218,7 +1218,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1276,7 +1276,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1334,7 +1334,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1392,7 +1392,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1450,7 +1450,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1508,7 +1508,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1569,8 +1569,8 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                 </a>
             </td>
             <td align="center">
-                <a href="https://play.kotlinlang.org">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+                <a href="https://tryclojure.org">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -1626,7 +1626,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1684,7 +1684,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1742,7 +1742,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1800,7 +1800,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1858,7 +1858,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1916,7 +1916,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -1974,7 +1974,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2032,7 +2032,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2090,7 +2090,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2148,7 +2148,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2206,7 +2206,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2264,7 +2264,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2322,7 +2322,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2380,7 +2380,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2441,8 +2441,8 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                 </a>
             </td>
              <td align="center">
-                <a href="https://play.kotlinlang.org">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+                <a href="https://tryclojure.org">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -2498,7 +2498,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2556,7 +2556,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2614,7 +2614,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2672,7 +2672,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2730,7 +2730,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2788,7 +2788,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2846,7 +2846,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2904,7 +2904,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -2962,7 +2962,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3020,7 +3020,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3078,7 +3078,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3136,7 +3136,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3194,7 +3194,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3252,7 +3252,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3310,7 +3310,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3370,9 +3370,9 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
-                <a href="https://play.kotlinlang.org">
-                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <td> <!-- Clojure -->
+                <a href="https://tryclojure.org">
+                    <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
         </tr>
@@ -3428,7 +3428,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3486,7 +3486,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3544,7 +3544,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3602,7 +3602,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
@@ -3660,7 +3660,7 @@ Com o objetivo de alcançar uma abrangência maior e encorajar mais pessoas a co
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
             </td>
-            <td> <!-- Kotlin -->
+            <td> <!-- Clojure -->
                 <a href="./CONTRIBUTING.md">
                     <img align="center" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
                 </a>
