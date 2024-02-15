@@ -4079,4 +4079,4 @@ In order to achieve greater coverage and encourage more people to contribute to 
 
 Feel free to contribute to the project, all contributions are welcome. :grin:
 
-If you have questions about how to contribute, take a look at the [CONTRIBUTING](CONTRIBUTING.md) file.
+If you have questions about how to contribute, take a look at the [CONTRIBUTING](AlgorithmsandDataStructures) file.
